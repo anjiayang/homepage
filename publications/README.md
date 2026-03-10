@@ -58,7 +58,7 @@
 
     Huang Zeng, <span class="author-self">Anjia Yang</span>, Jian Weng, Min-Rong Chen, Fengjun Xiao, Zilin Liu, and Yi Liu
 
-    IEEE Transactions on Dependable and Secure Computing, 2025
+    IEEE Transactions on Dependable and Secure Computing, 2026
 
 - **Privacy-preserving cross-domain point-of-interests recommendation based on friendship in LBSs**
 
