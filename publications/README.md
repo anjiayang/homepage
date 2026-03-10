@@ -26,6 +26,17 @@
   <button class="filter-btn" data-filter="book">Books / Chapters</button>
 </div>
 
+<div class="year-divider"><span>2026</span></div>
+
+- **Publicly Auditable Federated Learning with Privacy and Byzantine Robustness**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+
+    Huang Zeng, <span class="author-self">Anjia Yang</span>, Jian Weng, Min-Rong Chen, Fengjun Xiao, Zilin Liu, and Yi Liu
+
+    IEEE Transactions on Dependable and Secure Computing, 2026
+  
+
 <div class="year-divider"><span>2025</span></div>
 
 - **信息技术与信息安全精讲精练**
@@ -51,14 +62,6 @@
     Hangcheng Cao, Guowen Xu, Ziyang He, Xuan Zhang, Shengmin Xu, Xinyuan Qian, <span class="author-self">Anjia Yang</span>, Jianting Ning
 
     IEEE Transactions on Information Forensics and Security, vol. 20, pages 12680-12692, 2025
-
-- **Publicly Auditable Federated Learning with Privacy and Byzantine Robustness**
-
-    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
-
-    Huang Zeng, <span class="author-self">Anjia Yang</span>, Jian Weng, Min-Rong Chen, Fengjun Xiao, Zilin Liu, and Yi Liu
-
-    IEEE Transactions on Dependable and Secure Computing, 2026
 
 - **Privacy-preserving cross-domain point-of-interests recommendation based on friendship in LBSs**
 
