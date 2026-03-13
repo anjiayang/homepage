@@ -35,7 +35,31 @@
     Huang Zeng, <span class="author-self">Anjia Yang</span>, Jian Weng, Min-Rong Chen, Fengjun Xiao, Zilin Liu, and Yi Liu
 
     IEEE Transactions on Dependable and Secure Computing, 2026
+
+  - **基于安全多方计算的隐私保护异构联邦学习参与方选择**
+
+    <div class="pub-type journal">Journal</div>
+
+    刘腾飞, <span class="author-self">杨安家</span>, 翁健, 陈泯融, 刘逸, 曾璜
+
+    软件学报, 2026
   
+- **Forward Secure Identity-Based Encryption with Equality Test for Privacy-Preserving Friendship Recommendation on Social Platforms**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TMC</span>
+
+   Wenjie Yang, Yu Cai, Futai Zhang and <span class="author-self">Anjia Yang</span>
+
+    IEEE Transactions on Mobile Computing, 2026
+  
+  - **A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">KBS</span>
+
+    Xueping Liao, Yu Mao, Wei Liu, and <span class="author-self">Anjia Yang</span>
+
+    Knowledge-Based Systems, 2026
+    
 
 <div class="year-divider"><span>2025</span></div>
 
